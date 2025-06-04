@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+We are Neuroxa.
+
 <!--
 
 **Here are some ideas to get you started:**
